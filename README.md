@@ -4,7 +4,7 @@
 </p>
 
    Android Reverse Engineering tools for both rooted and non rooted devices.
-<!DOCTYPE html>
+
 ##Introduction
 Android Reverse engineering tools that are for free use are uploaded for educational purposes.
 All tools will be uploaded soon.
