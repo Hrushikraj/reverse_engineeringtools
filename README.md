@@ -1,4 +1,8 @@
 # Android Reverse Engineering Tools
+## Repo is Under maintainence
+
+For Android patches: [Click Here](https://github.com/Hrushikraj/Android_patches/tree/main)
+
 <p align="center">
   <img src="./LOCAL/ANDROID.jpg" alt="Android Reverse Engineering Tools">
 </p>
