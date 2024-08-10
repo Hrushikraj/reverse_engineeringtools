@@ -2,6 +2,9 @@
 ## Repo is Under maintainence
 
 **For Android patches: [Click Here](https://github.com/Hrushikraj/Android_patches/tree/main)**
+> Paper References:
+- Reverse Engineering techniques for Android systems: A Systematic approach
+- 
 
 <p align="center">
   <img src="./LOCAL/ANDROID.jpg" alt="Android Reverse Engineering Tools">
