@@ -3,7 +3,7 @@
 
 **For Android patches: [Click Here](https://github.com/Hrushikraj/Android_patches/tree/main)**
 > **Paper References**:
-> - Reverse Engineering techniques for Android systems: A Systematic approach
+> - [Reverse Engineering techniques for Android systems: A Systematic approach](https://ieeexplore.ieee.org/abstract/document/10183629)
 > - A Comparison of Android Reverse Engineering Tools via Program Behaviors Validation Based on Intermediate Languages Transformation
 
 <p align="center">
