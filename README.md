@@ -9,7 +9,7 @@
 >
 > **Contact for more details: [@Lazyhacker25](https://t.me/lazyhacker25)**
 <p align="center">
-  <img src="./LOCAL/ANDROID.jpg" alt="Android Reverse Engineering Tools">
+  <img src="./LOCAL/ANDROID.jpg" alt="Android Reverse Engineering Tools" width=70% height=70%>
 </p>
 
    Android Reverse Engineering tools for both rooted and non rooted devices.
