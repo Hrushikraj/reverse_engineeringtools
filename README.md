@@ -9,9 +9,9 @@
 
 **Contact for more details:**
 
- [<img src="./LOCAL/telegram2.png"  width=25% height=25%>](https://t.me/lazyhacker25)
+ [<img src="./LOCAL/telegram2.png"  width=25% height=25%>](https://t.me/lazyhacker25) 
 <p align="center">
-  <img src="./LOCAL/ANDROID.jpg" alt="Android Reverse Engineering Tools" width=70% height=70%>
+  <img src="./LOCAL/ANDROID.jpg" alt="Android Reverse Engineering Tools" >
 </p>
 
    Android Reverse Engineering tools for both rooted and non rooted devices.
