@@ -7,7 +7,7 @@
 > - [A Comparison of Android Reverse Engineering Tools via Program Behaviors Validation Based on Intermediate Languages Transformation
 ](https://ieeexplore.ieee.org/abstract/document/8300316) <br />
 >
-> **Contact for more details: [@Lazyhacker25](https://t.me/lazyhacker25)**
+> **Contact for more details: [<img src="./LOCAL/telegram.png"  width=70% height=70%>](https://t.me/lazyhacker25)**
 <p align="center">
   <img src="./LOCAL/ANDROID.jpg" alt="Android Reverse Engineering Tools" width=70% height=70%>
 </p>
