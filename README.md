@@ -6,6 +6,7 @@
 > - [Reverse Engineering techniques for Android systems: A Systematic approach](https://ieeexplore.ieee.org/abstract/document/10183629)
 > - [A Comparison of Android Reverse Engineering Tools via Program Behaviors Validation Based on Intermediate Languages Transformation
 ](https://ieeexplore.ieee.org/abstract/document/8300316)
+> **Contact for more details: [@Lazyhacker25](url)**
 <p align="center">
   <img src="./LOCAL/ANDROID.jpg" alt="Android Reverse Engineering Tools">
 </p>
