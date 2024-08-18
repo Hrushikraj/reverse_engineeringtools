@@ -26,4 +26,4 @@ tools in Non-Rooted folder includes
 -NP Manager
 and many More..
 
-**A detailed github wiki will be created about the usage of this tools. **
+**A detailed github wiki will be created about the usage of this tools.**
